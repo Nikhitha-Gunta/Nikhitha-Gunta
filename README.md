@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there, I'm Nikhitha Gunta! 👋</h1> 
 
-<p align="center">Master's student in Information Systems | Data Analyst</p>
+<p align="center">Graduated in Master's in Information Systems,Specialization in Data Analytics| Data Analyst</p>
 
 ## About Me
 I'm currently pursuing my Master's degree in Information Systems with a specialization in Data Analytics. I have a keen interest in data analytics and business intelligence, with a passion for deriving insights from data to drive informed decision-making.
